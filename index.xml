@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Garments>
+<Men cate="Outfitter" xmlns:m="http://Men's/Womens's/Web">
+<name>TATE</name>
+<price>10,000</price>
+<Disc>0.001</Disc>
+</Men>
+<Women cate="Outfitter" xmlns:n="http://Men's/Womens's/Web">
+<name>BATE</name>
+<price>10,000</price>
+<Disc>0.001</Disc>
+</Women>
+</Garments>
+<AutoTown>
+<Mens cate="FL" xmlns:o="http://Menn's/AutoTown/Web">
+<Name>GTr34</name>
+<price>369,000,00</price>
+<disc>NO DISCOUNT</disc>
+</Mens>
+</AutoTown>
